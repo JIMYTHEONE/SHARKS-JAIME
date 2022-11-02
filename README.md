@@ -1,8 +1,8 @@
 # Sharks-Proyecto-28.10.2022
 
-Proyecto segunda semana
 
-Goals:
+
+# GOALS:
 
 Get a cleaned dataset with at least 6 thousand rows and consistent data types.
 
