@@ -7,22 +7,16 @@
 Get a cleaned dataset with at least 6 thousand rows and consistent data types.
 
 
-Steps:
+# Steps:
 
 Explore Data and analyse possible issues
 
-Erase columns with more than 80 %
+Erase columns with more than 80 % null values
 
 Explore columns with null values under threshold and decide course of action
 
 Eliminate Duplicate rows
 
 Clean Columns
-
-Explore constant or low variance columns
-
-Outliers
-
-Collinearity
 
 Upload clean Dataframe
